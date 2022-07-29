@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshatha K Poojary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
--How to reach me
+<h3 align="left">How to reach me:</h3>
 [![Gmail Badge](https://img.shields.io/badge/-poojaryakshathak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:poojaryakshathak@gmail.com)](mailto:poojaryakshathak@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AkshathaKPoojary-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshathakpoojary/)](https://www.linkedin.com/in/akshatha-k-poojary/) [![Github Badge](https://img.shields.io/badge/-AkshathaKPoojary-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AkshathaKPoojary/)](https://www.github.com/AkshathaKPoojary/) 
 
 
