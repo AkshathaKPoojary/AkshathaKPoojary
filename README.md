@@ -1,5 +1,6 @@
+<img src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76111aa5de3bd8acc505b122f418aa6471c97ddfc69f&rid=giphy.gif&ct=s" align="right" alt="Coding" width="400" height="400" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshatha K Poojary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">CCE Undergrad at MIT Manipal</h3>
 
 <h3 align="left">How to reach me:</h3>
 
